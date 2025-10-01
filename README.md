@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on designing website or mobile app.
 - 📫 Reach me: vauline24@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a Youth Ambassador of Lampung
+- ⚡ Fun fact:
 
 <!---
 westoryyyy/westoryyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
